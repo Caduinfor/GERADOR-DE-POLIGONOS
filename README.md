@@ -1,5 +1,5 @@
-GERADOR-DE-POLIGONOS ==
-====================
+GERADOR-DE-POLIGONOS 
+
 
 Gerador de polígonos para representação de Contornos de Propagação para Radiodifusão com plotagem em sistema GIS do Google Earth
    
